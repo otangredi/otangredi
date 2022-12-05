@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Olivia</h1>
+<h1 align="center">Hi 👋 I'm Olivia</h1>
 <h3 align="center">A passionate backend developer from Montreal</h3>
 
 - 📫 How to reach me **oliviatangredixo@gmail.com**
